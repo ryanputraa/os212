@@ -1,0 +1,3 @@
+# REV06 Wed 07 Jul 2021 20:15:07 WIB
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ZCZC WEEK# MINUTES LogCode Description
