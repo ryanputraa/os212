@@ -1,6 +1,6 @@
 ## OS212 Repository
 
-Hello , My name is **Ryan Putra Budianto**.
+Hello , My name is **Ryan Putra**.
 This is my Operating Systems 2021-2 Repository
 
 ### *LINKS :*
