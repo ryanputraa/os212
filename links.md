@@ -4,6 +4,7 @@ permalink: /LINKS/
 
 
 ## Links Useful for OS
+
 ### Week 01
 1. [Linux Tutorial for Beginners: Introduction to Linux Operating System by Guru99](https://www.youtube.com/watch?v=V1y-mbWM3B8). This is quite a long Youtube video but it basically is
 a full beginner's guide for linux, starting from installing it to the commands as well.
@@ -11,3 +12,7 @@ a full beginner's guide for linux, starting from installing it to the commands a
 explaining the AWK command
 3. [Chapter 6 Sed, awk, and regular expressions](https://eriqande.github.io/eca-bioinf-handbook/sed-awk-and-regular-expressions.html). This is a pretty good documentation for awk,sed,
 and regular expressions
+
+### Week 02
+1. [C Programming Tutorial for Beginners by freeCodeCamp.com](https://www.youtube.com/watch?v=KJgsSFOSQv0). A full introduction to the C programming language 
+2. []
