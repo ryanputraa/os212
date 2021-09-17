@@ -16,3 +16,14 @@ ZCZC W01 20 L15 Assignment #05
 ZCZC W01 30 L16 Assignment #06
 ZCZC W01 30 L17 Assignment #07
 ZCZC W01 45 L18 Assignment #08
+ZCZC W02 20 L22 Quiz
+ZCZC W02 10 L14 Assignment #04
+ZCZC W02 10 L15 Assignment #05
+ZCZC W02 20 L16 Assignment #06
+ZCZC W02 20 L17 Assignment #07
+ZCZC W02 25 L18 Assignment #08
+ZCZC W02 10 L19 Assignment #09
+ZCZC W02 30 L20 Assignment #10
+ZCZC W02 15 L09 Assignment #11
+ZCZC W02 10 L09 Assignment #12
+ZCZC W02 15 L09 Assignment #13
