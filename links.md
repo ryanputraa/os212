@@ -13,3 +13,5 @@ explaining the AWK command
 and regular expression
 4. [C Programming Tutorial for Beginners by freeCodeCamp.com](https://www.youtube.com/watch?v=KJgsSFOSQv0). A full introduction to the C programming language 
 5. [FUSE - Full Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html). The full documentation of the FUSE file system.
+6. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/) explains the basic concept of paging in OS
+7. [The DOs and DON'Ts of Pointers](http://www.tagenigma.com/cgi-bin/tutorial_pointers.pl) nice guide that tells you what to do and what not to do when it comes to pointers
