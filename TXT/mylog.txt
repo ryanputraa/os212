@@ -32,3 +32,6 @@ ZCZC W02 10 L09 Assignment #12
 ZCZC W02 15 L09 Assignment #13
 ZCZC W03 20 L22 Quiz
 ZCZC W03 200 L09 Weekly Assignment 03
+ZCZC W04 20 L22 Quiz
+ZCZC W04 40 L01 Scele/Discord related
+ZCZC W04 120 L09 Weekly Assignment 04
