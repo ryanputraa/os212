@@ -15,3 +15,4 @@ and regular expression
 5. [FUSE - Full Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html). The full documentation of the FUSE file system.
 6. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/) explains the basic concept of paging in OS
 7. [The DOs and DON'Ts of Pointers](http://www.tagenigma.com/cgi-bin/tutorial_pointers.pl) nice guide that tells you what to do and what not to do when it comes to pointers
+8. [What Is Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory) helps with basic understanding of virtual memory
