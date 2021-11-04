@@ -19,3 +19,4 @@ and regular expression.
 9. [fork(2) — Linux manual page](https://man7.org/linux/man-pages/man2/fork.2.html) a comprehensive manual explaining the command fork().
 10. [What is Multithreading?](https://www.youtube.com/watch?v=0KAGazeMZ2o) a quick youtube video explaining the basics of the term "Multithreading".
 11. [Fork() – Practice questions](https://www.geeksforgeeks.org/fork-practice-questions/) practice questions for the command fork().
+12. [The Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem) Explains critical section problem.
