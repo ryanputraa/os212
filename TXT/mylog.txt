@@ -45,3 +45,13 @@ ZCZC W07 20 L22 Quiz
 ZCZC W07 60 L06 Studying the material
 ZCZC W07 40 L01 Scele/Discord related
 ZCZC W07 120 L09 Weekly Assignment 07
+ZCZC W08 20 L22 Quiz
+ZCZC W08 60 L02 Zoom
+ZCZC W08 60 L06 Studying the material
+ZCZC W08 40 L01 Scele/Discord related
+ZCZC W08 120 L09 Weekly Assignment 08
+ZCZC W09 20 L22 Quiz
+ZCZC W09 60 L02 Zoom
+ZCZC W09 60 L06 Studying the material
+ZCZC W09 40 L01 Scele/Discord related
+ZCZC W09 120 L09 Weekly Assignment 09

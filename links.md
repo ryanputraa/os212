@@ -20,3 +20,9 @@ and regular expression.
 10. [What is Multithreading?](https://www.youtube.com/watch?v=0KAGazeMZ2o) a quick youtube video explaining the basics of the term "Multithreading".
 11. [Fork() – Practice questions](https://www.geeksforgeeks.org/fork-practice-questions/) practice questions for the command fork().
 12. [The Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem) Explains critical section problem.
+
+13. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) Explains cpu scheduling in operating systems in an easy-to-understand way.
+
+14. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) This page explains Multiple-Processor Scheduling, which is a more complicated subject than cpu scheduling, but explained in a way I can understand.
+
+15. [https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)This page explains the concept of RAID or “Redundant Arrays of Independent Disks”.
